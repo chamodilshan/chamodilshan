@@ -16,7 +16,7 @@ I'm a Software Engineering undergraduate from Sri Lanka with an interest in deep
 - 🧠 Working on academic & personal projects
 - 📫 Reach me: **akilaprabath861@gmail.com**
   
-<img src="https://komarev.com/ghpvc/?username=Akila-Prabath&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=chamodilshan&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ---
 
