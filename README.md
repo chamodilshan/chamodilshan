@@ -6,15 +6,15 @@
 </p>
 
 ---
-<h4>Hey there 👋</h4>
+<h4>👋 Hi, I'm Chamod Dilshan</h4>
 
-I'm a Software Engineering undergraduate from Sri Lanka with an interest in deep learning and machine learning. Currently working on academic and personal projects while improving my skills in modern technologies.
-
- - 🔭 I’m currently working toward **my undergraduate degree**
-- 💻 I enjoy learning new technologies every day.
-- 🌱 Currently learning **Deep learning & NLP**
-- 🧠 Working on academic & personal projects
-- 📫 Reach me: **akilaprabath861@gmail.com**
+Welcome to my GitHub profile!
+I'm a learner and enthusiast in programming and technology, continuously building my skills step by step.
+<h4> 🚀 About Me</h4>
+🌱 Currently learning Programming fundamentals, SQL, and web-related technologies <br>
+💻 Interested in software development & problem solving <br>
+📚 Believe in continuous learning and consistency <br>
+🎯 Goal: Become a skilled and confident developer <br><br>
   
 <img src="https://komarev.com/ghpvc/?username=chamodilshan&label=Profile%20Views&color=0e75b6&style=flat" />
 
